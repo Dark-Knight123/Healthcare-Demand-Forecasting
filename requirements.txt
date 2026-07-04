@@ -4,6 +4,6 @@ scikit-learn
 matplotlib
 plotly
 sqlalchemy
-psycopg2
+psycopg2-binary
 jupyter
-
+ipykernel
